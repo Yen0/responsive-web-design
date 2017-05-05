@@ -1,0 +1,19 @@
+#page{
+	margin: 36px auto;
+	width: 960px;
+}
+
+.blog{
+	margin: 0 auto 53px;
+	width: 900px;
+}
+
+.blog .main{
+	float: left;
+	width: 566px;
+}
+
+.blog .other{
+	float: right;
+	width: 331px;
+}
