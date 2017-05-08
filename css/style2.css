@@ -1,19 +1,19 @@
 #page{
 	margin: 36px auto;
-	width: 960px;
+	width: 90%;
 }
 
 .blog{
 	margin: 0 auto 53px;
-	width: 900px;
+	width: 93.75%;
 }
 
 .blog .main{
 	float: left;
-	width: 566px;
+	width: 62.8888889%;
 }
 
 .blog .other{
 	float: right;
-	width: 331px;
+	width: 36.777777777%;
 }
